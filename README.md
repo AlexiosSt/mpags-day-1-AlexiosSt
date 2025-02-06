@@ -11,4 +11,4 @@ The authors.
 Alexis Stampekis.
 
 ## Documentation
-Here we write info about documentation.
+Here we write info about documentation!
